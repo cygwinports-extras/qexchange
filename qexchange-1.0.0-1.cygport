@@ -1,0 +1,5 @@
+inherit qt4-qmake
+
+DESCRIPTION="Qt4 currency exchange calculator"
+HOMEPAGE="http://www.becrux.com/index.php?page=projects&name=qexchange"
+SRC_URI="http://www.becrux.com/pages/projects/${PN}/${P}.tar.gz"

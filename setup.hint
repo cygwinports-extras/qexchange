@@ -1,0 +1,6 @@
+category: Math KDE
+requires: cygwin libQtCore4 libQtGui4 libQtNetwork4 libQtSql4 libqwt5
+sdesc: "Qt currency exchange calculator"
+ldesc: "QExchange is a Qt4 currency exchange calculator. Main features 
+are daily and historical currency conversion, chart view of historical 
+rates trend, exchange rates network update from European Central Bank."
